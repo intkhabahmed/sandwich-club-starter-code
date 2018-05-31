@@ -12,6 +12,7 @@
 
     <!-- Error messages-->
     <string name="detail_error_message">Sandwich data not available</string>
+    <string name="no_network">Cannot load image, No Internet Connection!</string>
 
     <string-array name="sandwich_names">
         <item>Ham and cheese sandwich</item>
